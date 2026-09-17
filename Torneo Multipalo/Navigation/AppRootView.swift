@@ -232,7 +232,7 @@ struct AppRootView: View {
 
     private var isKnockoutPreviewMode: Bool {
 #if DEBUG
-        ProcessInfo.processInfo.arguments.contains("--codex-knockout-preview")
+        ProcessInfo.processInfo.arguments.contains("--knockout-preview")
 #else
         false
 #endif
@@ -299,7 +299,7 @@ private struct DebugKnockoutPreviewRoute: View {
     }
 
     private var shouldExportPreview: Bool {
-        ProcessInfo.processInfo.arguments.contains("--codex-export-knockout-preview")
+        ProcessInfo.processInfo.arguments.contains("--export-knockout-preview")
     }
 
     @MainActor
@@ -322,7 +322,7 @@ private struct DebugKnockoutPreviewRoute: View {
         guard let outputURL = documentsURL?.appendingPathComponent("knockout-bracket-preview.png") else { return }
 
         try? data.write(to: outputURL, options: .atomic)
-        print("CODEx preview exported to \(outputURL.path)")
+        print("Knockout preview exported to \(outputURL.path)")
     }
 }
 #endif
