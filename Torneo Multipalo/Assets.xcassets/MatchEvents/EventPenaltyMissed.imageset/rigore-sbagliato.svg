@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none" role="img" aria-labelledby="rigore-sbagliato-title rigore-sbagliato-desc">
+  <title id="rigore-sbagliato-title">Rigore sbagliato</title>
+  <desc id="rigore-sbagliato-desc">Porta con rete, pallone e croce rossa.</desc>
+  <rect x="3.5" y="5.5" width="25" height="17" rx="0.8" fill="#F5F8FC"/>
+<path d="M 9.5,6.5 V 21.5 M 16,6.5 V 21.5 M 22.5,6.5 V 21.5 M 4.5,11 H 27.5 M 4.5,16.5 H 27.5" fill="none" stroke="#C5D4E2" stroke-width="0.85"/>
+<path d="M 3.5,22.5 V 6.3 Q 3.5,5.5 4.3,5.5 H 27.7 Q 28.5,5.5 28.5,6.3 V 22.5" fill="none" stroke="#FFFFFF" stroke-width="3.8" stroke-linecap="round"/>
+<path d="M 3.5,22.5 V 6.3 Q 3.5,5.5 4.3,5.5 H 27.7 Q 28.5,5.5 28.5,6.3 V 22.5" fill="none" stroke="#102338" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 4.5,22.5 H 27.5" stroke="#A6BACD" stroke-width="0.9"/>
+<g transform="translate(11.5 20.4) scale(0.61905)">
+  <circle r="11.9" fill="#FFFFFF"/>
+  <circle r="10.5" fill="#FFFFFF"/>
+  <g fill="#102338" stroke="#102338" stroke-linejoin="round" stroke-linecap="round">
+    <polygon points="0.000 -4.200 3.994 -1.298 2.469 3.398 -2.469 3.398 -3.994 -1.298" stroke-width="0.7"/>
+    <path d="M 0.000 -4.200 L 0.000 -7.600 M 3.994 -1.298 L 7.228 -2.349 M 2.469 3.398 L 4.467 6.149 M -2.469 3.398 L -4.467 6.149 M -3.994 -1.298 L -7.228 -2.349" fill="none" stroke-width="1.15"/>
+    <g stroke="none"><path d="M 0.000 -7.400 L -2.719 -8.369 L -4.103 -9.665 A 10.5 10.5 0 0 1 4.103 -9.665 L 2.719 -8.369 Z"/><path d="M 7.038 -2.287 L 7.119 -5.173 L 7.924 -6.889 A 10.5 10.5 0 0 1 10.460 0.915 L 8.800 0.000 Z"/><path d="M 4.350 5.987 L 7.119 5.173 L 9.000 5.408 A 10.5 10.5 0 0 1 2.362 10.231 L 2.719 8.369 Z"/><path d="M -4.350 5.987 L -2.719 8.369 L -2.362 10.231 A 10.5 10.5 0 0 1 -9.000 5.408 L -7.119 5.173 Z"/><path d="M -7.038 -2.287 L -8.800 0.000 L -10.460 0.915 A 10.5 10.5 0 0 1 -7.924 -6.889 L -7.119 -5.173 Z"/></g>
+    <circle r="10.5" fill="none" stroke-width="1.6"/>
+  </g>
+</g><g transform="translate(24 24)">
+  <circle r="7.3" fill="#FFFFFF"/>
+  <circle r="6.1" fill="#E5484D"/>
+  <path d="m -2,-2 4,4 m 0,-4 -4,4" fill="none" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

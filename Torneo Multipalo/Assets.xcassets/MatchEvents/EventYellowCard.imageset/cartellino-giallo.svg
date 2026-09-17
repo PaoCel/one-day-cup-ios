@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none" role="img" aria-labelledby="cartellino-giallo-title cartellino-giallo-desc">
+  <title id="cartellino-giallo-title">Cartellino giallo</title>
+  <desc id="cartellino-giallo-desc">Cartellino giallo inclinato, con contorno blu scuro.</desc>
+  <g transform="rotate(-9 16.0 16.0)">
+  <rect x="8" y="4" width="16" height="24" rx="2.2" fill="#F8C63E" stroke="#FFFFFF" stroke-width="3.6"/>
+  <rect x="8" y="4" width="16" height="24" rx="2.2" fill="#F8C63E" stroke="#102338" stroke-width="1.6"/>
+  <path d="M 11,11 V 7.3 H 15" fill="none" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

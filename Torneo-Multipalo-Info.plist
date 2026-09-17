@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>OneDay Cup</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.649400894005-e728i2v9rq604a0afjmfm9iq1h1kvr5o</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLName</key>
+			<string>com.torneomultipalo.deeplink</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>torneomultipalo</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>649400894005-e728i2v9rq604a0afjmfm9iq1h1kvr5o.apps.googleusercontent.com</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>La fotocamera serve per scattare foto profilo dei giocatori e il logo della squadra.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>La libreria foto serve per scegliere foto profilo dei giocatori e il logo della squadra.</string>
+	<key>PrivacyPolicyURL</key>
+	<string>https://torneomultipalo.it/privacy.html</string>
+	<key>SupportURL</key>
+	<string>https://torneomultipalo.it/privacy.html#supporto</string>
+	<key>TMAllowRiskyProductionDebugActions</key>
+	<string>$(TM_ALLOW_RISKY_PRODUCTION_DEBUG_ACTIONS)</string>
+	<key>TMFirebaseConfigResourceName</key>
+	<string>$(TM_FIREBASE_CONFIG_RESOURCE_NAME)</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>LaunchBackground</string>
+	</dict>
+</dict>
+</plist>

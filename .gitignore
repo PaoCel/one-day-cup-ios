@@ -1,0 +1,21 @@
+# Xcode
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+xcuserdata/
+*.xcuserstate
+.build*/
+.swiftpm/
+
+# Firebase client config: never in the repo
+GoogleService-Info*.plist
+
+# macOS
+.DS_Store
+
+# Local working notes
+CLAUDE.md
+AGENTS.md
+.claude/
+.codex/

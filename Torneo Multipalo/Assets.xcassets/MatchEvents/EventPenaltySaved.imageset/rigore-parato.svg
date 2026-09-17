@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none" role="img" aria-labelledby="rigore-parato-title rigore-parato-desc">
+  <title id="rigore-parato-title">Rigore parato</title>
+  <desc id="rigore-parato-desc">Guanto azzurro che ferma il pallone davanti alla porta.</desc>
+  <rect x="3.5" y="5.5" width="25" height="17" rx="0.8" fill="#F5F8FC"/>
+<path d="M 9.5,6.5 V 21.5 M 16,6.5 V 21.5 M 22.5,6.5 V 21.5 M 4.5,11 H 27.5 M 4.5,16.5 H 27.5" fill="none" stroke="#C5D4E2" stroke-width="0.85"/>
+<path d="M 3.5,22.5 V 6.3 Q 3.5,5.5 4.3,5.5 H 27.7 Q 28.5,5.5 28.5,6.3 V 22.5" fill="none" stroke="#FFFFFF" stroke-width="3.8" stroke-linecap="round"/>
+<path d="M 3.5,22.5 V 6.3 Q 3.5,5.5 4.3,5.5 H 27.7 Q 28.5,5.5 28.5,6.3 V 22.5" fill="none" stroke="#102338" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 4.5,22.5 H 27.5" stroke="#A6BACD" stroke-width="0.9"/>
+<g transform="translate(24.2 15.1) scale(0.44286)">
+  <circle r="11.9" fill="#FFFFFF"/>
+  <circle r="10.5" fill="#FFFFFF"/>
+  <g fill="#102338" stroke="#102338" stroke-linejoin="round" stroke-linecap="round">
+    <polygon points="0.000 -4.200 3.994 -1.298 2.469 3.398 -2.469 3.398 -3.994 -1.298" stroke-width="0.7"/>
+    <path d="M 0.000 -4.200 L 0.000 -7.600 M 3.994 -1.298 L 7.228 -2.349 M 2.469 3.398 L 4.467 6.149 M -2.469 3.398 L -4.467 6.149 M -3.994 -1.298 L -7.228 -2.349" fill="none" stroke-width="1.15"/>
+    <g stroke="none"><path d="M 0.000 -7.400 L -2.719 -8.369 L -4.103 -9.665 A 10.5 10.5 0 0 1 4.103 -9.665 L 2.719 -8.369 Z"/><path d="M 7.038 -2.287 L 7.119 -5.173 L 7.924 -6.889 A 10.5 10.5 0 0 1 10.460 0.915 L 8.800 0.000 Z"/><path d="M 4.350 5.987 L 7.119 5.173 L 9.000 5.408 A 10.5 10.5 0 0 1 2.362 10.231 L 2.719 8.369 Z"/><path d="M -4.350 5.987 L -2.719 8.369 L -2.362 10.231 A 10.5 10.5 0 0 1 -9.000 5.408 L -7.119 5.173 Z"/><path d="M -7.038 -2.287 L -8.800 0.000 L -10.460 0.915 A 10.5 10.5 0 0 1 -7.924 -6.889 L -7.119 -5.173 Z"/></g>
+    <circle r="10.5" fill="none" stroke-width="1.6"/>
+  </g>
+</g><g transform="translate(0 3) scale(0.93)" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M 11,27 9.9,23.8 C 9.1,22.8 7.9,22 7.1,20.8 L 4.9,17.4 C 4.3,16.4 4.8,15.3 5.8,15.3 6.3,15.3 6.7,15.6 7.1,16.1 L 9.4,18.3 8.5,12.3 C 8.3,11.2 8.9,10.6 9.7,10.6 10.6,10.5 11.2,11.1 11.3,12 L 11.9,16 V 9.1 C 11.9,8 12.5,7.4 13.4,7.4 14.3,7.4 14.9,8 14.9,9.1 V 15 L 15.7,9.9 C 15.9,8.9 16.7,8.4 17.5,8.7 18.3,8.9 18.6,9.6 18.4,10.6 L 17.8,16 19.2,12.9 C 19.6,12 20.4,11.7 21.1,12.1 21.9,12.5 22,13.3 21.6,14.2 L 20.5,19.6 C 20.1,22.2 18.5,24.4 17.3,26.6 L 17,27 Z" fill="#0B79F7" stroke="#FFFFFF" stroke-width="3.3"/>
+  <path d="M 11,27 9.9,23.8 C 9.1,22.8 7.9,22 7.1,20.8 L 4.9,17.4 C 4.3,16.4 4.8,15.3 5.8,15.3 6.3,15.3 6.7,15.6 7.1,16.1 L 9.4,18.3 8.5,12.3 C 8.3,11.2 8.9,10.6 9.7,10.6 10.6,10.5 11.2,11.1 11.3,12 L 11.9,16 V 9.1 C 11.9,8 12.5,7.4 13.4,7.4 14.3,7.4 14.9,8 14.9,9.1 V 15 L 15.7,9.9 C 15.9,8.9 16.7,8.4 17.5,8.7 18.3,8.9 18.6,9.6 18.4,10.6 L 17.8,16 19.2,12.9 C 19.6,12 20.4,11.7 21.1,12.1 21.9,12.5 22,13.3 21.6,14.2 L 20.5,19.6 C 20.1,22.2 18.5,24.4 17.3,26.6 L 17,27 Z" fill="#0B79F7" stroke="#102338" stroke-width="1.35"/>
+  <path d="M 10.3,19.8 Q 12.4,20.7 12.5,23 M 13.4,18.7 13.8,21.3 M 16.5,18.5 16.1,21" fill="none" stroke="#FFFFFF" stroke-width="1.25"/>
+  <rect x="10.1" y="25.3" width="8.5" height="4.5" rx="1.2" fill="#102338" stroke="#FFFFFF" stroke-width="1.6"/>
+  <path d="M 12.3,27.5 H 16.3" stroke="#FFFFFF" stroke-width="1.1"/>
+</g>
+</svg>
