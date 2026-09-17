@@ -13,9 +13,4 @@ GoogleService-Info*.plist
 
 # macOS
 .DS_Store
-
-# Local working notes
-CLAUDE.md
-AGENTS.md
-.claude/
-.codex/
+__pycache__/
